@@ -16,3 +16,8 @@ RUNNING ON WINDOWS OS:
 - Run "./output"
 
 *****************************************
+
+FOR A MORE DETAILED PRODUCT INFORMATION REFER TO THE DEVELOPMENT DOCUMENTATION IN
+'docs/devDocs.pdf'.
+
+*****************************************
