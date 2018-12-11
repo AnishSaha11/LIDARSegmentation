@@ -11,8 +11,9 @@
 // #define WINDOWS  /* uncomment this line to use it for windows.*/
 #ifdef WINDOWS
 #include "direct.h"
-#endif
+#else
 #include <dirent.h>
+#endif
 #include <string>
 #include <ctime>
 #define LIDAR "LidarData"
